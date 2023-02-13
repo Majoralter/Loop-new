@@ -241,7 +241,7 @@ p {
 
 .js-scroll {
     opacity: 0;
-    transition: opacity 2s ease-in;
+    transition: opacity 1.5s ease-in-out;
 }
 
 .js-scroll.scrolled {
